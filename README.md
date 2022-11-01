@@ -24,11 +24,9 @@ D:.<br>
 # activate virtual environment
 > venv\Scripts\activate
 
-# install scrapy framework
-> pip install scrapy
+# install dependencies
+> pip install -r requirements.txt
 
-# create project
-> scrapy startproject <project_name>
 ```
 
 ## Run Command
